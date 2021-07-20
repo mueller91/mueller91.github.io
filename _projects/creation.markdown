@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to clone a voice
-description: Cloning a target speaker's voice
+description: Cloning any target speaker's voice
 img: /assets/img/cranium.png
 importance: 1
 category: work

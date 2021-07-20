@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deepfake detection
-description: How to identify audio-deepfakes
+description: AI-driven audio deepfake detection and human perception
 img: /assets/img/hacker.jpg
 importance: 2
 category: work
@@ -30,3 +30,12 @@ The following charts show the results:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/delta_acc_ai_human.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+<div class="caption">
+    The results of the Human vs. AI contest in audio deepfake detection. The leftmost image shows the Accuracy (i.e. the percentage of correct guesses) of the AI. The middle figure shows the Accuracy of all human players, averaged. The rightmost image shows the difference in Accuracy between the AI and the humans. Note that for all but one of the attacks (A7, A8, ..., A19) and the benign data (denoted by '-'), the AI outperforms the human players.
+</div>
+
+The AI outperforms the human players in all but one attack scenario. We interpret these results as follows:
+- AI has a clear advantage over humans in the domain of audio deepfake detection.
+- Still, in some cases, humans outperform the AI.
+
+For more information, read our <a href="">paper (to be published soon)</a>.
