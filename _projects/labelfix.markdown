@@ -1,7 +1,7 @@
 ---
 layout: page
-title: correctness of ML-datasets
-description: identifying mislabeled instances in AI-datasets
+title: Correctness of ML-datasets
+description: Identifying mislabeled instances in AI-datasets
 img: /assets/img/dataset.png
 importance: 3
 category: work
@@ -10,6 +10,7 @@ category: work
 Machine learning requires data from which to learn: 
 Even the most advanced neural network $$f$$ is merely a mapping $$ x \to y $$, learnt from the training dataset.
 Thus, the correctness of training data is paramount.
+The figure below shows a popular image recognition dataset, the Cifar-10 dataset, which consists of inputs $$x$$ (the images) and labels $$y$$ (the associated classes).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +22,7 @@ Thus, the correctness of training data is paramount.
 </div>
 
 However, it turns out that even in the most popular datasets, there are a number of instances whose labels $$y$$ are plain wrong.
-Consider the following examples from the Cifar-10 dataset:
+Consider the following examples from the Cifar-10 dataset, where the semantics of the image do not correspond to the label.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,5 +37,7 @@ While the Cifar-10 dataset generally is very clean (we only found 7 mislabeled i
 other datasets contain a much larger number of mislabeled samples.
 This is not just problematic for training, but also for evaluation, since it skews Accuracy and other metrics.
 
-In our paper, we present a simple and straightforward algorithm to remedy this: Go have a 
-<a href="https://arxiv.org/pdf/1912.05283.pdf">look</a>.
+How can these mislabeled instances be found? Since the dataset is huge, manually inspecting all of the inidivual image/label pairs is not an option.
+Thus, we designed an algorithm to identify these mislabeled instances.
+You can find the technical description 
+<a href="https://arxiv.org/pdf/1912.05283.pdf">here</a>, and the source code <a href="https://github.com/mueller91/labelfix">here</a>.

@@ -11,7 +11,7 @@
   Nicolas M. Müller
 
 
-  | correctness of ML-datasets
+  | Correctness of ML-datasets
 
 </title>
 <meta name="description" content="My personal website
@@ -178,14 +178,15 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">correctness of ML-datasets</h1>
-    <p class="post-description">identifying mislabeled instances in AI-datasets</p>
+    <h1 class="post-title">Correctness of ML-datasets</h1>
+    <p class="post-description">Identifying mislabeled instances in AI-datasets</p>
   </header>
 
   <article>
     <p>Machine learning requires data from which to learn: 
 Even the most advanced neural network \(f\) is merely a mapping \(x \to y\), learnt from the training dataset.
-Thus, the correctness of training data is paramount.</p>
+Thus, the correctness of training data is paramount.
+The figure below shows a popular image recognition dataset, the Cifar-10 dataset, which consists of inputs \(x\) (the images) and labels \(y\) (the associated classes).</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -197,7 +198,7 @@ Thus, the correctness of training data is paramount.</p>
 </div>
 
 <p>However, it turns out that even in the most popular datasets, there are a number of instances whose labels \(y\) are plain wrong.
-Consider the following examples from the Cifar-10 dataset:</p>
+Consider the following examples from the Cifar-10 dataset, where the semantics of the image do not correspond to the label.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -212,8 +213,10 @@ Consider the following examples from the Cifar-10 dataset:</p>
 other datasets contain a much larger number of mislabeled samples.
 This is not just problematic for training, but also for evaluation, since it skews Accuracy and other metrics.</p>
 
-<p>In our paper, we present a simple and straightforward algorithm to remedy this: Go have a 
-<a href="https://arxiv.org/pdf/1912.05283.pdf">look</a>.</p>
+<p>How can these mislabeled instances be found? Since the dataset is huge, manually inspecting all of the inidivual image/label pairs is not an option.
+Thus, we designed an algorithm to identify these mislabeled instances.
+You can find the technical description 
+<a href="https://arxiv.org/pdf/1912.05283.pdf">here</a>, and the source code <a href="https://github.com/mueller91/labelfix">here</a>.</p>
 
   </article>
 
