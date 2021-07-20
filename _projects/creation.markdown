@@ -7,7 +7,6 @@ importance: 1
 category: work
 ---
 
-{% include clickable-image.html %}
 
 <div id="image-cover-modal" class="image-cover-modal">
   <img id="image-cover-image" class="image-cover-modal-content">

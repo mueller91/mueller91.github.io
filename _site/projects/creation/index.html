@@ -187,36 +187,6 @@
   <img id="image-cover-image" class="image-cover-modal-content" />
   <div id="image-cover-caption"></div>
 </div>
-<script>
-// Get the DOM
-var modal = document.getElementById('image-cover-modal');
-var modalImg = document.getElementById("image-cover-image");
-var captionText = document.getElementById("image-cover-caption");
-var span = document.getElementsByClassName("image-cover-close")[0];
-
-// When the user clicks on <span> (x), close the modal
-modal.onclick = function() {
-    this.classList.remove("model-shown");
-}
-
-var i;
-for (i = 0; i < document.images.length; i++) {
-
-    // Get the image and insert it inside the modal - use its "alt" text as a caption
-    var img = document.images[i];
-
-    img.onclick = function(){
-        modal.classList.add("model-shown");
-        modalImg.src = this.src;
-        captionText.innerHTML = this.alt;
-    }
-}
-</script>
-
-<div id="image-cover-modal" class="image-cover-modal">
-  <img id="image-cover-image" class="image-cover-modal-content" />
-  <div id="image-cover-caption"></div>
-</div>
 
 <p>In 2017, the first <a href="https://arxiv.org/abs/1703.10135"> Tacotron System </a> opened up the world of audio deepfakes - computer genereated audio designed to mimic any given voice.
 In order to showcase this thread and sensititze the audience, we developed a deepfake system which can clone a target voice - and applied it to German chanellor Angela Merkel.</p>
