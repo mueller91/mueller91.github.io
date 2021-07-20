@@ -227,8 +227,8 @@
       <img src="/assets/img/hacker.jpg" alt="project thumbnail" height="200px" style="object-fit: cover;" />
       
       <div class="card-body">
-        <h2 class="card-title text-lowercase">deepfake detection</h2>
-        <p class="card-text">how to identify audio-deepfakes</p>
+        <h2 class="card-title text-lowercase">Deepfake detection</h2>
+        <p class="card-text">How to identify audio-deepfakes</p>
         <div class="row ml-1 mr-1 p-0">
           
         </div>
@@ -277,7 +277,35 @@
 </div>
 
   </article>
+  <div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+<script>
+// Get the DOM
+var modal = document.getElementById('image-cover-modal');
+var modalImg = document.getElementById("image-cover-image");
+var captionText = document.getElementById("image-cover-caption");
+var span = document.getElementsByClassName("image-cover-close")[0];
 
+// When the user clicks on <span> (x), close the modal
+modal.onclick = function() {
+    this.classList.remove("model-shown");
+}
+
+var i;
+for (i = 0; i < document.images.length; i++) {
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = document.images[i];
+
+    img.onclick = function(){
+        modal.classList.add("model-shown");
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+    }
+}
+</script>
 </div>
 
     </div>

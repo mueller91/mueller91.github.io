@@ -7,6 +7,13 @@ importance: 1
 category: work
 ---
 
+{% include clickable-image.html %}
+
+<div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+
 In 2017, the first <a href="https://arxiv.org/abs/1703.10135"> Tacotron System </a> opened up the world of audio deepfakes - computer genereated audio designed to mimic any given voice.
 In order to showcase this thread and sensititze the audience, we developed a deepfake system which can clone a target voice - and applied it to German chanellor Angela Merkel.
 

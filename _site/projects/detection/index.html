@@ -11,7 +11,7 @@
   Nicolas M. Müller
 
 
-  | deepfake detection
+  | Deepfake detection
 
 </title>
 <meta name="description" content="My personal website
@@ -178,15 +178,67 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">deepfake detection</h1>
-    <p class="post-description">how to identify audio-deepfakes</p>
+    <h1 class="post-title">Deepfake detection</h1>
+    <p class="post-description">How to identify audio-deepfakes</p>
   </header>
 
   <article>
-    
+    <p>We saw <a href="/projects/creation">earlier</a> that deep learning is able to clone the voice of any given target,
+such as Angela Merkel.
+This raises the following questions:</p>
+<ul>
+  <li>How well are humans fooled by these deepfakes?</li>
+  <li>Can we use AI to detect audio deepfakes?</li>
+</ul>
+
+<p>We conducted an online study, where we presented over 8900 audio files to 200 users.
+Each of the audio files was either authentic, or a deepfake.
+We then measured the performance of both the human players, as well as the performance of an AI specifically trained to detect audio deepfakes.</p>
+
+<p>The following charts show the results:</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/ml_acc_by_attack_id.png" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/user_acc_by_attack_id.png" alt="" title="example image" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/delta_acc_ai_human.png" alt="" title="example image" />
+    </div>
+</div>
 
   </article>
+  <div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+<script>
+// Get the DOM
+var modal = document.getElementById('image-cover-modal');
+var modalImg = document.getElementById("image-cover-image");
+var captionText = document.getElementById("image-cover-caption");
+var span = document.getElementsByClassName("image-cover-close")[0];
 
+// When the user clicks on <span> (x), close the modal
+modal.onclick = function() {
+    this.classList.remove("model-shown");
+}
+
+var i;
+for (i = 0; i < document.images.length; i++) {
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = document.images[i];
+
+    img.onclick = function(){
+        modal.classList.add("model-shown");
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+    }
+}
+</script>
 </div>
 
     </div>
