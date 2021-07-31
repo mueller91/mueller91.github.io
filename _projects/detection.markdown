@@ -38,4 +38,4 @@ The AI outperforms the human players in all but one attack scenario. We interpre
 - AI has a clear advantage over humans in the domain of audio deepfake detection.
 - Still, in some cases, humans outperform the AI.
 
-For more information, read our <a href=""https://arxiv.org/pdf/2107.09667.pdf>paper</a>, on which this blog post is based.
+For more information, read our <a href="https://arxiv.org/pdf/2107.09667.pdf">paper</a>, on which this blog post is based.
