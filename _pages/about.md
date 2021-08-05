@@ -25,5 +25,5 @@ My research interests include
 - security of machine learning, especially adversarial data poisoning attacks and the <a href="projects/labelfix"> correctness of machine learning datasets</a>.
 
 I'm also interested in <a href="teaching">teaching</a>, see 
-- my courses at technical unversity of munich, and
-- the certified deep-learning course via Fraunhofer academy.
+- my courses at Technical Unversity of Munich, and
+- the certified deep-learning course via Fraunhofer Academy.
