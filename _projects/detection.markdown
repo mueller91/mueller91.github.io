@@ -15,7 +15,8 @@ This raises the following questions:
 
 We conducted an online study, where we presented over 8900 audio files to 200 users.
 Each of the audio files was either authentic, or a deepfake.
-We then measured the performance of both the human players, as well as the performance of an AI specifically trained to detect audio deepfakes.
+The users were tasked with classifying the audio correctly as either authentic or deepfake. You can <a href="http://deepfake-demo.aisec.fraunhofer.de:8888/">try it yourself on this website</a>.
+We then measured the performance of both the human players, as well as the performance of an AI specifically trained to detect audio deepfakes. 
 
 The following charts show the results:
 
