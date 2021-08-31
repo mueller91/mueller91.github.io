@@ -7,7 +7,7 @@ nav: true
 ---
 
 ### Students | Technical University of Munich (TUM)
-- WS2021/22 Lecture: Ausgewaehlte Themen aus dem Bereich IT-Sicherheit  <a href="https://www.sec.in.tum.de/i20/teaching/ausgewaehlte-themen-aus-dem-bereich-it-sicherheit"> (click here) </a>
+- WS2021/22 Lecture: Machine Learning and IT-Security  <a href="https://www.sec.in.tum.de/i20/teaching/ausgewaehlte-themen-aus-dem-bereich-it-sicherheit"> (click here) </a>
 - SS2021 Seminar: Adversarial and Secure Machine Learning <a href="https://www.sec.in.tum.de/i20/teaching/ss2021/adversarial-and-secure-machine-learning-1"> (click here) <a/>
 - WS2020/21 Seminar: Adversarial and Secure Machine Learning <a href="https://www.sec.in.tum.de/i20/teaching/adversarial-and-secure-machine-learning"> (click here) <a/>
 - SS2020 Seminar: Adversarial and Secure Machine Learning <a href="https://www.sec.in.tum.de/i20/teaching/ss2020/adversarial-and-secure-machine-learning"> (click here) <a/>
