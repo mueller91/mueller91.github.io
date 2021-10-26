@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: self_v3.jpg
+  image: self_v3.png
   address: >
     <p>Fraunhofer AISEC</p>
     <p>Lichtenbergstraße 11</p>
