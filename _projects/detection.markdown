@@ -7,6 +7,16 @@ importance: 2
 category: work
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" 
+        src="{{ '/assets/img/demo_on_mac_c.jpg' | relative_url }}" alt="" 
+title="example image"/>
+    </div>
+</div>
+
+<br/>
+
 We saw <a href="/projects/creation">earlier</a> that deep learning is able to clone the voice of any given target,
 such as Angela Merkel.
 This raises the following questions:
