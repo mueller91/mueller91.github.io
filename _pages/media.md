@@ -11,6 +11,7 @@ print:
 - trendreport: <a href="https://www.trendreport.de/ki-security-by-design/"> KI: Security by Design </a>
 
 web:
+- Handelsblatt: <a href="https://www.handelsblatt.com/technik/it-internet/cyberkriminalitaet-wie-der-enkeltrick-nur-mit-ki-deepfake-betrueger-erpressen-firmen-mit-falscher-chef-stimme/28003742.html"> Betrug durch Deepfakes </a>
 - Security Insider: <a href="https://www.security-insider.de/wo-deep-fakes-schon-jetzt-eine-gefahr-darstellen-a-1014123/"> Bedrohung durch DeepFakes </a>
 - Innovisions: <a href="https://www.fraunhofer-innovisions.de/semantische-medienanalyse/gelesen-und-verstanden/"> Semantische Medienanalyse </a>
 - Fraunhofer: <a href="https://www.aisec.fraunhofer.de/de/presse-und-veranstaltungen/presse/pressemitteilungen/2020/kuenstliche-intelligenz.html"> ML: Die Zukunft der IT-Sicherheit? </a>
