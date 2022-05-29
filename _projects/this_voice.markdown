@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This Voice Does Not Exist 
-description: Synthesizing speech for non-existant speakers
+description: Synthesizing speech for non-existent speakers
 img: /assets/img/ai_persons.jpg
 importance: 1
 category: work
