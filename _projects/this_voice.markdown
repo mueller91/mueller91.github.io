@@ -19,4 +19,5 @@ None of the persons shown exist; all of them are created by an AI (a Generative 
 
 On my website, <a href="http://this-voice-does-not-exist.com/">this-voice-does-not-exist.com</a>,
 the same is done for human speech:
-I synthesize over 150 sentences for about 100 speakers, showcasing the creative potential of text-to-speech technology.
+I synthesize over 150 sentences, showcasing the creative potential of text-to-speech technology.
+The new voices are creating by manipulating the embedding vector of the underlying model.
