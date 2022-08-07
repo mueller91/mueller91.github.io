@@ -2,11 +2,12 @@
 layout: page
 permalink: /media/
 title: media
-description: Some publications on other blogs, websites and in print.
+description: Me on other blogs, websites and in print.
 nav: true
 ---
 
 print:
+- Die ZEIT: <a href="https://www.zeit.de/digital/2022-06/deepfake-tiktok-ki-faelschung">Ein Leben als Deepfake</a>
 - fraunhofer magazin weiter.vorn: <a href="https://www.archiv.fraunhofer.de/fraunhofer-magazin_2_2021/#39">Augenschein: Deepfakes in den Medien</a>
 - trendreport: <a href="https://www.trendreport.de/ki-security-by-design/"> KI: Security by Design </a>
 - Berufsverband der Datenschutzbeauftragten: <a href="https://www.bvdnet.de/wp-content/uploads/2022/07/29_BvDS-358_BvD_News_2022-2_Web.pdf"> Deepfakes </a> 
