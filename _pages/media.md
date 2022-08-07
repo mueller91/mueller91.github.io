@@ -9,6 +9,7 @@ nav: true
 print:
 - fraunhofer magazin weiter.vorn: <a href="https://www.archiv.fraunhofer.de/fraunhofer-magazin_2_2021/#39">Augenschein: Deepfakes in den Medien</a>
 - trendreport: <a href="https://www.trendreport.de/ki-security-by-design/"> KI: Security by Design </a>
+- Berufsverband der Datenschutzbeauftragten: <a href="https://www.bvdnet.de/wp-content/uploads/2022/07/29_BvDS-358_BvD_News_2022-2_Web.pdf"> Deepfakes </a> 
 
 web:
 - DPA Faktencheck: <a href="https://dpa-factchecking.com/germany/220803-99-257169/">Joe Biden Deepfake? </a>
