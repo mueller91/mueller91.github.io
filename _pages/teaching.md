@@ -8,6 +8,7 @@ nav: true
 
 ### For Students | Technical University of Munich (TUM)
 Lectures:
+- WS22 Lecture: Machine Learning and IT-Security (English)  <a href="https://www.sec.in.tum.de/i20/teaching/ws2022/optional-machine-learning-and-it-security"> (click here) </a>
 - SS21 Lecture: Machine Learning and IT-Security  <a href="https://www.sec.in.tum.de/i20/teaching/ss2022/ausgewaehlte-themen-aus-dem-bereich-it-sicherheit"> (click here) </a>
 - WS21 Lecture: Machine Learning and IT-Security  <a href="https://www.sec.in.tum.de/i20/teaching/ausgewaehlte-themen-aus-dem-bereich-it-sicherheit"> (click here) </a>
 
