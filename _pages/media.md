@@ -6,6 +6,9 @@ description: Me on other blogs, websites and in print.
 nav: true
 ---
 
+tv:
+- Kinderkanal: <a href="https://www.kika.de/roadtrip-fuer-techfans/sendungen/richtig-fake-100.html">'Richtig Fake'</a>
+
 print:
 - Die ZEIT: <a href="https://www.zeit.de/digital/2022-06/deepfake-tiktok-ki-faelschung">Ein Leben als Deepfake</a>
 - fraunhofer magazin weiter.vorn: <a href="https://www.archiv.fraunhofer.de/fraunhofer-magazin_2_2021/#39">Augenschein: Deepfakes in den Medien</a>
