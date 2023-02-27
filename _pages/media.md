@@ -19,6 +19,7 @@ web:
 - DPA Faktencheck: <a href="https://dpa-factchecking.com/germany/220803-99-257169/">Joe Biden Deepfake? </a>
 - Handelsblatt: <a href="https://www.handelsblatt.com/technik/forschung-innovation/insight-innovation-deepfakes-im-krieg-koennen-wir-unseren-augen-nicht-mehr-trauen/28176612.html"> Deepfakes: Im Krieg können wir unseren Augen nicht mehr trauen </a>
 - Handelsblatt: <a href="https://www.handelsblatt.com/technik/it-internet/cyberkriminalitaet-wie-der-enkeltrick-nur-mit-ki-deepfake-betrueger-erpressen-firmen-mit-falscher-chef-stimme/28003742.html"> Betrug durch Deepfakes </a>
+- Metaphysic.AI: <a href="https://metaphysic.ai/image-synthesis-has-an-seo-problem/">Image Synthesis has an SEO problem</a>
 - Security Insider: <a href="https://www.security-insider.de/wo-deep-fakes-schon-jetzt-eine-gefahr-darstellen-a-1014123/"> Bedrohung durch DeepFakes </a>
 - Innovisions: <a href="https://www.fraunhofer-innovisions.de/semantische-medienanalyse/gelesen-und-verstanden/"> Semantische Medienanalyse </a>
 - Fraunhofer: <a href="https://www.aisec.fraunhofer.de/de/presse-und-veranstaltungen/presse/pressemitteilungen/2020/kuenstliche-intelligenz.html"> ML: Die Zukunft der IT-Sicherheit? </a>
