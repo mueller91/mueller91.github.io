@@ -8,6 +8,8 @@ nav: true
 
 tv:
 - Kinderkanal: <a href="https://www.kika.de/roadtrip-fuer-techfans/sendungen/richtig-fake-100.html">'Richtig Fake'</a>
+- Pro7 Taff, 23.03.2023: Statements regarding Donald Trump Deepfakes
+- Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
 
 print:
 - Die ZEIT: <a href="https://www.zeit.de/digital/2022-06/deepfake-tiktok-ki-faelschung">Ein Leben als Deepfake</a>
