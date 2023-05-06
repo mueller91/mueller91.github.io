@@ -8,10 +8,12 @@ nav: true
 
 tv:
 - Kinderkanal: <a href="https://www.kika.de/roadtrip-fuer-techfans/sendungen/richtig-fake-100.html">'Richtig Fake'</a>
+- Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
 - Pro7 Taff, 23.03.2023: Statements regarding Donald Trump Deepfakes
 - Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
 
 print:
+- Südkurrier: <a href="https://www.suedkurier.de/ueberregional/wissenschaft/was-sind-deepfakes;art1350069,11556435">Technik: Was sind Deepfakes</a>
 - Die ZEIT: <a href="https://www.zeit.de/digital/2022-06/deepfake-tiktok-ki-faelschung">Ein Leben als Deepfake</a>
 - fraunhofer magazin weiter.vorn: <a href="https://www.archiv.fraunhofer.de/fraunhofer-magazin_2_2021/#39">Augenschein: Deepfakes in den Medien</a>
 - trendreport: <a href="https://www.trendreport.de/ki-security-by-design/"> KI: Security by Design </a>
@@ -27,6 +29,7 @@ web:
 - Fraunhofer: <a href="https://www.aisec.fraunhofer.de/de/presse-und-veranstaltungen/presse/pressemitteilungen/2020/kuenstliche-intelligenz.html"> ML: Die Zukunft der IT-Sicherheit? </a>
 - Infopoint Security: <a href="https://www.infopoint-security.de/ki-als-cybersecurity-mitarbeiter-maschinelles-lernen-fuer-mehr-sicherheit/a19233/"> ML for IT security </a>
 
-talks:
+live:
 - Huawei AI4SEC workshop <a href="https://ai4sec.net/IW2021/"> AI4SEC workshop </a>
 - Code2021 workshop: <a href="https://www.unibw.de/code-events/workshops"> Audio Deepfakes</a>
+- Security Slam 2023: <a href="https://ata-dag.de/securityslam23/">Link </a>
