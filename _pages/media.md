@@ -7,10 +7,12 @@ nav: true
 ---
 
 tv:
+- ZDF Heute Journal, 05.06.2023: EU-Regulierung zu KI <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html"Link</a>
+- Pro7 Taff, 23.05.2023: Statements regarding Pentagon Fire Deepfakes
+- Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
+- Pro7 Taff, 23.03.2023: Statements regarding Donald Trump Deepfakes
 - Kinderkanal: <a href="https://www.kika.de/roadtrip-fuer-techfans/sendungen/richtig-fake-100.html">'Richtig Fake'</a>
 - Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
-- Pro7 Taff, 23.03.2023: Statements regarding Donald Trump Deepfakes
-- Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
 
 print:
 - Südkurrier: <a href="https://www.suedkurier.de/ueberregional/wissenschaft/was-sind-deepfakes;art1350069,11556435">Technik: Was sind Deepfakes</a>
@@ -30,6 +32,8 @@ web:
 - Infopoint Security: <a href="https://www.infopoint-security.de/ki-als-cybersecurity-mitarbeiter-maschinelles-lernen-fuer-mehr-sicherheit/a19233/"> ML for IT security </a>
 
 live:
+- Science Slam der Deutschen Transatlantischen Gesellschaft, 03.05.2023, Berlin
+- VCI Technikdialog Mitte/West, 10.05.2023, Remote
 - Huawei AI4SEC workshop <a href="https://ai4sec.net/IW2021/"> AI4SEC workshop </a>
 - Code2021 workshop: <a href="https://www.unibw.de/code-events/workshops"> Audio Deepfakes</a>
 - Security Slam 2023: <a href="https://ata-dag.de/securityslam23/">Link </a>
