@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: What I do.
+description: Some of the projects I work on as a research scientist at Fraunhofer AISEC.
 order: 3
 nav: true
 display_categories: [work, fun]
