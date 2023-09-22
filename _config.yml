@@ -5,8 +5,8 @@
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Nicolas
+title: Dr. Nicolas M. Müller # the website title (if blank, full name will be used instead)
+first_name: Dr. Nicolas
 middle_name: M.
 last_name: Müller
 email: nicolas.mueller@aisec.fraunhofer.de

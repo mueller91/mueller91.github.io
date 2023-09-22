@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Deepfake Total
-description: A website to evaluate voice recordings by state-of-the-art deepfake detection models
+description: A website to explore and evaluate voice recordings by many state-of-the-art deepfake detection models
 img: /assets/img/deepfake-total.png
-importance: 3
+importance: 0
 category: work
 ---
 
@@ -31,7 +31,7 @@ If you need inspiration, head on over to the "examples" pages, where you can fin
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://deepfake-total.com/examples">
-            <img class="img-fluid rounded z-depth-1" src="{{ 'deepfake-total-examples.png' | relative_url }}" alt="" title="example image"/>
+            <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/deepfake-total-examples.png' | relative_url }}" alt="" title="example image"/>
         </a>
     </div>
 </div>
