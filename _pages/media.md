@@ -7,7 +7,7 @@ nav: true
 ---
 
 tv:
-- ZDF Heute Journal, 05.06.2023: EU-Regulierung zu KI <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html"Link</a>
+- ZDF Heute Journal, 05.06.2023: <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html">EU-Regulierung zu KI </a>
 - Pro7 Taff, 23.05.2023: Statements regarding Pentagon Fire Deepfakes
 - Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
 - Pro7 Taff, 23.03.2023: Statements regarding Donald Trump Deepfakes
