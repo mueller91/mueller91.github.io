@@ -15,6 +15,9 @@ tv:
 - Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
 
 print:
+- Tagesschau / RBB: <a href="https://www.tagesschau.de/inland/regional/brandenburg/rbb-deepfakes-sind-wie-messer-man-kann-sie-missbrauchen-oder-gebrauchen-100.html"> Brandenburg Berlin "Deepfakes sind wie Messer" </a>
+- VDI Technikdialog: <a href="https://www.vdi.de/veranstaltungen/detail/vdi-technikdialog-mitte-west-deepfake-gegen-ki-wie-man-mit-kuenstlicher-intelligenz-deepfakes-entlarvt"> Wie man mit künstlicher Intelligenz Deepfakes entlarvt </a>
+- Verkehrsrundschau <a href="https://www.verkehrsrundschau.de/nachrichten/transport-logistik/interview-deepfakes-sind-ein-sehr-maechtiges-werkzeug-3433236">Interview: "Deepfakes sind ein sehr mächtiges Werkzeug"</a>
 - Südkurrier: <a href="https://www.suedkurier.de/ueberregional/wissenschaft/was-sind-deepfakes;art1350069,11556435">Technik: Was sind Deepfakes</a>
 - Die ZEIT: <a href="https://www.zeit.de/digital/2022-06/deepfake-tiktok-ki-faelschung">Ein Leben als Deepfake</a>
 - fraunhofer magazin weiter.vorn: <a href="https://www.archiv.fraunhofer.de/fraunhofer-magazin_2_2021/#39">Augenschein: Deepfakes in den Medien</a>
@@ -32,7 +35,7 @@ web:
 - Infopoint Security: <a href="https://www.infopoint-security.de/ki-als-cybersecurity-mitarbeiter-maschinelles-lernen-fuer-mehr-sicherheit/a19233/"> ML for IT security </a>
 
 live:
-- Science Slam der Deutschen Transatlantischen Gesellschaft, 03.05.2023, Berlin
+- Science Slam der Deutschen Transatlantischen Gesellschaft, 03.05.2023, Berlin: <a href="https://ata-dag.de/securityslam23/"> Deepfakes </a>
 - VCI Technikdialog Mitte/West, 10.05.2023, Remote
 - Huawei AI4SEC workshop <a href="https://ai4sec.net/IW2021/"> AI4SEC workshop </a>
 - Code2021 workshop: <a href="https://www.unibw.de/code-events/workshops"> Audio Deepfakes</a>
