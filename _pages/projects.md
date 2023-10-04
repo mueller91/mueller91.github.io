@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some of the projects I work on as a research scientist at Fraunhofer AISEC.
 order: 3
 nav: true
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 <div class="projects">
