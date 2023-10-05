@@ -4,7 +4,7 @@ title: Deepfake Total
 description: A website to explore and evaluate voice recordings by many state-of-the-art deepfake detection models
 img: /assets/img/deepfake-total.png
 importance: 0
-category: work
+category: demos
 ---
 
 <div id="image-cover-modal" class="image-cover-modal">

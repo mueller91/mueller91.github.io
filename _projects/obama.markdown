@@ -3,8 +3,8 @@ layout: page
 title: Barack Obama Deepfake
 description: Can you spot the audio ObamaFake?
 img: https://media.vanityfair.fr/photos/651589f8eab6475743a810ea/16:9/w_2560%2Cc_limit/GettyImages-1244072602.jpg
-importance: 1
-category: work
+importance: 3
+category: demos
 ---
 
 <style>

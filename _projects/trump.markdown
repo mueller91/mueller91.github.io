@@ -3,8 +3,8 @@ layout: page
 title: Donald Trump Deepfake
 description: Can you spot the audio TrumpFake?
 img: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/440px-Donald_Trump_official_portrait.jpg
-importance: 1
-category: work
+importance: 3
+category: demos
 ---
 
 <style>

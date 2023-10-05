@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Deepfake detection
-description: AI-driven audio deepfake detection and human perception
+title: Deepfake Detection
+description: Try this inteactive challenge and see if you can spot the audio deepfake!
 img: /assets/img/hacker.jpg
 importance: 2
-category: work
+category: demos
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" 
-        src="{{ '/assets/img/demo_on_mac_c.jpg' | relative_url }}" alt="" 
+        src="/assets/img/demo_on_mac_c.jpg" alt="" 
 title="example image"/>
     </div>
 </div>
@@ -33,13 +33,13 @@ The following charts show the results:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ml_acc_by_attack_id.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/ml_acc_by_attack_id.png" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/user_acc_by_attack_id.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/user_acc_by_attack_id.png" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/delta_acc_ai_human.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/delta_acc_ai_human.png" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
