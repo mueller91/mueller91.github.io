@@ -11,7 +11,7 @@ tv:
 - Pro7 Taff, 23.05.2023: Statements regarding Pentagon Fire Deepfakes
 - Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
 - Pro7 Taff, 23.03.2023: Statements regarding Donald Trump Deepfakes
-- Kinderkanal: <a href="https://www.kika.de/roadtrip-fuer-techfans/sendungen/richtig-fake-100.html">'Richtig Fake'</a>
+- Kinderkanal: <a href="https://www.kika.de/roadtrip-fuer-techfans/videos/richtig-fake-fuenf-104">'Richtig Fake'</a>
 - Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
 
 print:
