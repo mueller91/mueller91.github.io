@@ -7,7 +7,7 @@ nav: true
 ---
 
 awards:
-- Best Paper at <a href="https://bmvc2023.org/">BMVC 2023</a>: <a href="/assets/imgs/best_paper_bmvc23.png">Click here</a>.
+- Best Paper at <a href="https://bmvc2023.org/">BMVC 2023</a>: <a href="/assets/img/best_paper_bmvc23.png">Click here</a>.
 
 tv:
 - ZDF Heute Journal, 05.06.2023: <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html">EU-Regulierung zu KI </a>
