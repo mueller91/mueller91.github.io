@@ -103,6 +103,9 @@ rm -R _site/
 # Create `.nojekyll` file (bypass GitHub Pages Jekyll processing)
 touch .nojekyll
 
+# rm /pages/mueller91 error
+grep -rl '/pages/mueller91' . | xargs sed -i 's/\/pages\/mueller91//g'
+
 # Push to DEPLOY_BRANCH
 git add -fA
 git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
