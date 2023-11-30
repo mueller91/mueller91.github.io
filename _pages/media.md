@@ -9,7 +9,8 @@ nav: true
 awards:
 - Best Paper at <a href="https://bmvc2023.org/">BMVC 2023</a>: <a href="/assets/img/best_paper_bmvc23.png">Click here</a>.
 
-tv:
+tv / radio:
+- MDR, 30.11.2023: <a href="https://www.mdr.de/audio-2492026_zc-61c1655f_zs-94656218.html">Olaf Scholz Deepfake </a>
 - ZDF Heute Journal, 05.06.2023: <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html">EU-Regulierung zu KI </a>
 - Pro7 Taff, 23.05.2023: Statements regarding Pentagon Fire Deepfakes
 - Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
