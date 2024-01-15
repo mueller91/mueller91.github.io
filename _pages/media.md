@@ -19,6 +19,7 @@ tv / radio:
 - Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
 
 print:
+- Financial Times: <a href="https://on.ft.com/47uKF0h">The rising threat to democracy of AI-powered disinformation</a>
 - Frankfurter Rundschau: <a href="https://www.fr.de/kultur/gesellschaft/die-deepfake-apokalypse-92749539.html">Die Deepfake Apokalypse</a>
 - Tagesschau / RBB: <a href="https://www.tagesschau.de/inland/regional/brandenburg/rbb-deepfakes-sind-wie-messer-man-kann-sie-missbrauchen-oder-gebrauchen-100.html"> Brandenburg Berlin "Deepfakes sind wie Messer" </a>
 - VDI Technikdialog: <a href="https://www.vdi.de/veranstaltungen/detail/vdi-technikdialog-mitte-west-deepfake-gegen-ki-wie-man-mit-kuenstlicher-intelligenz-deepfakes-entlarvt"> Wie man mit künstlicher Intelligenz Deepfakes entlarvt </a>
