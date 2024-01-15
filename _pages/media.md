@@ -9,7 +9,8 @@ nav: true
 awards:
 - Best Paper at <a href="https://bmvc2023.org/">BMVC 2023</a>: <a href="/assets/img/best_paper_bmvc23.png">Click here</a>.
 
-tv:
+tv / radio:
+- MDR, 30.11.2023: <a href="https://www.mdr.de/audio-2492026_zc-61c1655f_zs-94656218.html">Olaf Scholz Deepfake </a>
 - ZDF Heute Journal, 05.06.2023: <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html">EU-Regulierung zu KI </a>
 - Pro7 Taff, 23.05.2023: Statements regarding Pentagon Fire Deepfakes
 - Pro7 Taff, 28.03.2023: Statements regarding Midjourney v5 (Pope Francis Deepfake)
@@ -18,6 +19,7 @@ tv:
 - Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
 
 print:
+- Frankfurter Rundschau: <a href="https://www.fr.de/kultur/gesellschaft/die-deepfake-apokalypse-92749539.html">Die Deepfake Apokalypse</a>
 - Tagesschau / RBB: <a href="https://www.tagesschau.de/inland/regional/brandenburg/rbb-deepfakes-sind-wie-messer-man-kann-sie-missbrauchen-oder-gebrauchen-100.html"> Brandenburg Berlin "Deepfakes sind wie Messer" </a>
 - VDI Technikdialog: <a href="https://www.vdi.de/veranstaltungen/detail/vdi-technikdialog-mitte-west-deepfake-gegen-ki-wie-man-mit-kuenstlicher-intelligenz-deepfakes-entlarvt"> Wie man mit künstlicher Intelligenz Deepfakes entlarvt </a>
 - Verkehrsrundschau <a href="https://www.verkehrsrundschau.de/nachrichten/transport-logistik/interview-deepfakes-sind-ein-sehr-maechtiges-werkzeug-3433236">Interview: "Deepfakes sind ein sehr mächtiges Werkzeug"</a>
