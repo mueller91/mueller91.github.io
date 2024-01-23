@@ -10,6 +10,7 @@ awards:
 - Best Paper at <a href="https://bmvc2023.org/">BMVC 2023</a>: <a href="/assets/img/best_paper_bmvc23.png">Click here</a>.
 
 tv / radio:
+- Deutsche Welle: <a href="https://www.youtube.com/watch?v=0QlScDJtqWw">How Deepfakes Pose a Threat to Elections</a>
 - MDR, 30.11.2023: <a href="https://www.mdr.de/audio-2492026_zc-61c1655f_zs-94656218.html">Olaf Scholz Deepfake </a>
 - ZDF Heute Journal, 05.06.2023: <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html">EU-Regulierung zu KI </a>
 - Pro7 Taff, 23.05.2023: Statements regarding Pentagon Fire Deepfakes
@@ -20,6 +21,8 @@ tv / radio:
 
 print:
 - Financial Times: <a href="https://on.ft.com/47uKF0h">The rising threat to democracy of AI-powered disinformation</a>
+- ZaoBao Singapore: <a href="https://www.zaobao.com.sg/lifestyle/feature/story20240119-1462802"> Deepfake Detection </a>
+- Tagesspiegel: <a href="https://background.tagesspiegel.de/digitalisierung/ki-vs-ki-automatisierte-erkennung-von-deepfakes"> KI gegen KI </a>
 - Frankfurter Rundschau: <a href="https://www.fr.de/kultur/gesellschaft/die-deepfake-apokalypse-92749539.html">Die Deepfake Apokalypse</a>
 - Tagesschau / RBB: <a href="https://www.tagesschau.de/inland/regional/brandenburg/rbb-deepfakes-sind-wie-messer-man-kann-sie-missbrauchen-oder-gebrauchen-100.html"> Brandenburg Berlin "Deepfakes sind wie Messer" </a>
 - VDI Technikdialog: <a href="https://www.vdi.de/veranstaltungen/detail/vdi-technikdialog-mitte-west-deepfake-gegen-ki-wie-man-mit-kuenstlicher-intelligenz-deepfakes-entlarvt"> Wie man mit künstlicher Intelligenz Deepfakes entlarvt </a>
@@ -41,6 +44,7 @@ web:
 - Infopoint Security: <a href="https://www.infopoint-security.de/ki-als-cybersecurity-mitarbeiter-maschinelles-lernen-fuer-mehr-sicherheit/a19233/"> ML for IT security </a>
 
 live:
+- OmniSecure 2024: <a href="https://omnisecure.berlin/agenda/"> Risiken automatisierter Methoden zur Manipulation medialer Identitäten („Deepfakes“)</a>
 - Science Slam der Deutschen Transatlantischen Gesellschaft, 03.05.2023, Berlin: <a href="https://ata-dag.de/securityslam23/"> Deepfakes </a>
 - VCI Technikdialog Mitte/West, 10.05.2023, Remote
 - Huawei AI4SEC workshop <a href="https://ai4sec.net/IW2021/"> AI4SEC workshop </a>
