@@ -96,7 +96,6 @@ export JEKYLL_ENV=production
 bundle exec jekyll build --lsi
 
 # Delete and move files
-echo("Delete and move files")
 grep -rl '/pages/mueller91' /opt/mueller/mueller91.github.io/ | xargs sed -i 's/\/pages\/mueller91//g'
 find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
 mv _site/* .
