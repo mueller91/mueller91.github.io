@@ -10,6 +10,7 @@ awards:
 - Best Paper at <a href="https://bmvc2023.org/">BMVC 2023</a>: <a href="/assets/img/best_paper_bmvc23.png">Click here</a>.
 
 tv / radio:
+- NTV: <a href="https://youtu.be/KtbcRKGRvGI?si=n--kWkYFAiOJi_P1&t=789"> Faktenzeichen Deepfakes </a>
 - Deutsche Welle: <a href="https://www.youtube.com/watch?v=0QlScDJtqWw">How Deepfakes Pose a Threat to Elections</a>
 - MDR, 30.11.2023: <a href="https://www.mdr.de/audio-2492026_zc-61c1655f_zs-94656218.html">Olaf Scholz Deepfake </a>
 - ZDF Heute Journal, 05.06.2023: <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html">EU-Regulierung zu KI </a>
