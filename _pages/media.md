@@ -22,7 +22,9 @@ tv / radio:
 - Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
 
 print:
-- ZDF: <a href="https://www.zdf.de/nachrichten/wirtschaft/chatgpt-hacker-sicherheit-ki-openai-100.html"> KI als Waffe: Steigt die Hacker-Gefahr? </a>
+- ZDF, 11.03.2024: <a href="https://www.zdf.de/nachrichten/wissen/sprache-kuenstliche-intelligenz-ki-hoerbuch-audio-100.html">Warum KI (noch) nicht Sprecher ersetzen kann</a>
+- ZDF, 09.03.2024: <a href="https://www.zdf.de/nachrichten/wissen/audio-kuenstliche-intelligenz-deep-fakes-100.html"> Wie gefährlich sind Audio Deepfakes?</a>
+- ZDF, 20.02.2024: <a href="https://www.zdf.de/nachrichten/wirtschaft/chatgpt-hacker-sicherheit-ki-openai-100.html"> KI als Waffe: Steigt die Hacker-Gefahr? </a>
 - Financial Times: <a href="https://on.ft.com/47uKF0h">The rising threat to democracy of AI-powered disinformation</a>
 - ZaoBao Singapore: <a href="https://www.zaobao.com.sg/lifestyle/feature/story20240119-1462802"> Deepfake Detection </a>
 - Tagesspiegel: <a href="https://background.tagesspiegel.de/digitalisierung/ki-vs-ki-automatisierte-erkennung-von-deepfakes"> KI gegen KI </a>
