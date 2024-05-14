@@ -10,6 +10,7 @@ awards:
 - Best Paper at <a href="https://bmvc2023.org/">BMVC 2023</a>: <a href="/assets/img/best_paper_bmvc23.png">Click here</a>.
 
 tv / radio:
+- ZDF, 08.05.24: <a href="https://www.zdf.de/dokumentation/die-spur/europawahl-wahlkampf-ki-desinformation-100.html">  Kann KI Wahlen beeinflussen? </a>
 - HR, 07.03.24: <a href="https://www.ardmediathek.de/video/alles-wissen/alles-wissen-vom-07-03-2024/hr-fernsehen/Y2ZhNWYzMjgtOTRkOC00ZThjLTgzODUtOTM0MmJkNjI3M2Ew"> Alles Wissen </a>
 - NTV, 18.01.2024: <a href="https://youtu.be/KtbcRKGRvGI?si=n--kWkYFAiOJi_P1&t=789"> Faktenzeichen Deepfakes </a>
 - Deutsche Welle, 08.11.2023: <a href="https://www.youtube.com/watch?v=0QlScDJtqWw">How Deepfakes Pose a Threat to Elections</a>
