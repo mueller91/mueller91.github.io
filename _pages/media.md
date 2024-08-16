@@ -40,6 +40,7 @@ print:
 - Berufsverband der Datenschutzbeauftragten: <a href="https://www.bvdnet.de/wp-content/uploads/2022/07/29_BvDS-358_BvD_News_2022-2_Web.pdf"> Deepfakes </a> 
 
 web:
+- Deutsche Welle <a href="https://www.dw.com/en/fact-check-how-do-i-spot-audio-deepfakes/a-69934521"> How do I spot audio deepfakes? </a>
 - DPA Faktencheck: <a href="https://dpa-factchecking.com/germany/220803-99-257169/">Joe Biden Deepfake? </a>
 - Handelsblatt: <a href="https://www.handelsblatt.com/technik/forschung-innovation/insight-innovation-deepfakes-im-krieg-koennen-wir-unseren-augen-nicht-mehr-trauen/28176612.html"> Deepfakes: Im Krieg können wir unseren Augen nicht mehr trauen </a>
 - Handelsblatt: <a href="https://www.handelsblatt.com/technik/it-internet/cyberkriminalitaet-wie-der-enkeltrick-nur-mit-ki-deepfake-betrueger-erpressen-firmen-mit-falscher-chef-stimme/28003742.html"> Betrug durch Deepfakes </a>
