@@ -11,7 +11,7 @@
   Dr. Nicolas Müller
 
 
-  | blog
+  | Deepfake Total
 
 </title>
 <meta name="description" content="My personal website
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/deepfaketotal/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -121,8 +121,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/demos/">
                 demos
@@ -190,19 +188,74 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Deepfake Total</h1>
+    <p class="post-description">A website to explore and evaluate voice recordings by many state-of-the-art deepfake detection models</p>
+  </header>
 
+  <article>
+    <div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content" />
+  <div id="image-cover-caption"></div>
+</div>
 
-  <ul class="post-list">
-    
-  </ul>
+<p><a href="https://deepfake-total.com">Deepfake-total.com </a> is a website where you can test state-of-the-art antispoofing models for human voice.
+Given a Youtube Link, or an uploaded audio file, several state-of-the-art models return a score between 0 (authentic) and 100 (fake).</p>
 
-  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://deepfake-total.com">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/deepfake-total.png" alt="" title="example image" />
+        </a>
+    </div>
+</div>
+<div class="caption">
+    The website "Deepfake-Total.com", developed and maintained by me at Fraunhofer AISEC.
+</div>
 
+<p>If you need inspiration, head on over to the “examples” pages, where you can find many deepfake examples, along with the models’ Fake-O-Meter scores!</p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://deepfake-total.com/examples">
+            <img class="img-fluid rounded z-depth-1" src="/assets/img/deepfake-total-examples.png" alt="" title="example image" />
+        </a>
+    </div>
+</div>
+<div class="caption">
+    The 'examples' page, showing many audio deepfakes found on YouTube.
+</div>
+
+  </article>
+  <div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+<script>
+// Get the DOM
+var modal = document.getElementById('image-cover-modal');
+var modalImg = document.getElementById("image-cover-image");
+var captionText = document.getElementById("image-cover-caption");
+var span = document.getElementsByClassName("image-cover-close")[0];
+
+// When the user clicks on <span> (x), close the modal
+modal.onclick = function() {
+    this.classList.remove("model-shown");
+}
+
+var i;
+for (i = 0; i < document.images.length; i++) {
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = document.images[i];
+
+    img.onclick = function(){
+        modal.classList.add("model-shown");
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+    }
+}
+</script>
 </div>
 
     </div>

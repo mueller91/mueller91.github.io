@@ -11,7 +11,7 @@
   Dr. Nicolas Müller
 
 
-  | blog
+  | writing
 
 </title>
 <meta name="description" content="My personal website
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -161,9 +161,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/projects/">
                 writing
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -190,19 +192,121 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">writing</h1>
+    <p class="post-description">Some of the projects I work on as a research scientist at Fraunhofer AISEC.</p>
+  </header>
 
-
-  <ul class="post-list">
+  <article>
+    <div class="projects">
+  
+  <!-- Display categorized projects -->
     
-  </ul>
+      <h2 class="category">work</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/creation/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/mic.jpg" alt="project thumbnail" height="200px" style="object-fit: cover;" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">How to clone a voice</h2>
+        <p class="card-text">Cloning any target speaker's voice</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/creation_video/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/headph.jpg" alt="project thumbnail" height="200px" style="object-fit: cover;" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Audio + Video Deepfakes</h2>
+        <p class="card-text">Creating visual deepfakes with free-form audio input</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/labelfix/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/dataset.png" alt="project thumbnail" height="200px" style="object-fit: cover;" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Correctness of ML-datasets</h2>
+        <p class="card-text">Identifying mislabeled instances in AI-datasets</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
 
   
 
+</div>
 
+  </article>
+  <div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+<script>
+// Get the DOM
+var modal = document.getElementById('image-cover-modal');
+var modalImg = document.getElementById("image-cover-image");
+var captionText = document.getElementById("image-cover-caption");
+var span = document.getElementsByClassName("image-cover-close")[0];
+
+// When the user clicks on <span> (x), close the modal
+modal.onclick = function() {
+    this.classList.remove("model-shown");
+}
+
+var i;
+for (i = 0; i < document.images.length; i++) {
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = document.images[i];
+
+    img.onclick = function(){
+        modal.classList.add("model-shown");
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+    }
+}
+</script>
 </div>
 
     </div>

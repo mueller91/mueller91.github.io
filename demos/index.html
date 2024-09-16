@@ -11,7 +11,7 @@
   Dr. Nicolas Müller
 
 
-  | blog
+  | demos
 
 </title>
 <meta name="description" content="My personal website
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/demos/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -121,11 +121,11 @@
           
           
           
-          
-          
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/demos/">
                 demos
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -190,19 +190,141 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">demos</h1>
+    <p class="post-description">Some of the projects I work on as a research scientist at Fraunhofer AISEC.</p>
+  </header>
 
-
-  <ul class="post-list">
+  <article>
+    <div class="projects">
+  
+  <!-- Display categorized projects -->
     
-  </ul>
+      <h2 class="category">demos</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/deepfaketotal/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/deepfake-total.png" alt="project thumbnail" height="200px" style="object-fit: cover;" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Deepfake Total</h2>
+        <p class="card-text">A website to explore and evaluate voice recordings by many state-of-the-art deepfake detection models</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/detection/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/hacker.jpg" alt="project thumbnail" height="200px" style="object-fit: cover;" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Deepfake Detection</h2>
+        <p class="card-text">Try this inteactive challenge and see if you can spot the audio deepfake!</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/obama/">
+  
+    <div class="card hoverable">
+      
+      <img src="https://media.vanityfair.fr/photos/651589f8eab6475743a810ea/16:9/w_2560%2Cc_limit/GettyImages-1244072602.jpg" alt="project thumbnail" height="200px" style="object-fit: cover;" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Barack Obama Deepfake</h2>
+        <p class="card-text">Can you spot the audio ObamaFake?</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/trump/">
+  
+    <div class="card hoverable">
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/440px-Donald_Trump_official_portrait.jpg" alt="project thumbnail" height="200px" style="object-fit: cover;" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Donald Trump Deepfake</h2>
+        <p class="card-text">Can you spot the audio TrumpFake?</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
 
   
 
+</div>
 
+  </article>
+  <div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+<script>
+// Get the DOM
+var modal = document.getElementById('image-cover-modal');
+var modalImg = document.getElementById("image-cover-image");
+var captionText = document.getElementById("image-cover-caption");
+var span = document.getElementsByClassName("image-cover-close")[0];
+
+// When the user clicks on <span> (x), close the modal
+modal.onclick = function() {
+    this.classList.remove("model-shown");
+}
+
+var i;
+for (i = 0; i < document.images.length; i++) {
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = document.images[i];
+
+    img.onclick = function(){
+        modal.classList.add("model-shown");
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+    }
+}
+</script>
 </div>
 
     </div>
