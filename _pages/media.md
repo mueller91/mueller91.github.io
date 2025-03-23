@@ -11,6 +11,11 @@ awards:
 
 tv / radio:
 - Galileo, 17.02.2025 <a href="https://www.youtube.com/watch?v=0SKgh9j9rqY">WAHLMANIPULATION und VERKAUFSMASCHEN: Geraten Deepfakes außer Kontrolle? </a>
+- 3SAT Nano, 14.09.2024: <a href="https://www.zdf.de/3sat/nano/240914-ki-und-die-moeglichkeiten-in-der-politik-und-meinungsbildung-nano-100.html"> KI und die Möglichkeiten in der Politik und Meinungsbildung </a>
+- ZDF, 08.05.24: <a href="https://www.zdf.de/dokumentation/die-spur/europawahl-wahlkampf-ki-desinformation-100.html">  Kann KI Wahlen beeinflussen? </a>
+- HR, 07.03.24: <a href="https://www.ardmediathek.de/video/alles-wissen/alles-wissen-vom-07-03-2024/hr-fernsehen/Y2ZhNWYzMjgtOTRkOC00ZThjLTgzODUtOTM0MmJkNjI3M2Ew"> Alles Wissen </a>
+- NTV, 18.01.2024: <a href="https://youtu.be/KtbcRKGRvGI?si=n--kWkYFAiOJi_P1&t=789"> Faktenzeichen Deepfakes </a>
+- Deutsche Welle, 08.11.2023: <a href="https://www.youtube.com/watch?v=0QlScDJtqWw">How Deepfakes Pose a Threat to Elections</a>
 - MDR, 30.11.2023: <a href="https://www.mdr.de/audio-2492026_zc-61c1655f_zs-94656218.html">Olaf Scholz Deepfake </a>
 - ZDF Heute Journal, 05.06.2023: <a href="https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-5-juni-2023-100.html">EU-Regulierung zu KI </a>
 - Pro7 Taff, 23.05.2023: Statements regarding Pentagon Fire Deepfakes
@@ -21,7 +26,12 @@ tv / radio:
 
 print:
 - France 24: <a href="https://observers.france24.com/fr/science/20250321-deepfakes-audio-faux-plus-difficiles-d%C3%A9tecter-intox-desinformation"> Deepfakes audio : des faux de plus en plus difficiles à détecter ? </a>
+- ZDF, 11.03.2024: <a href="https://www.zdf.de/nachrichten/wissen/sprache-kuenstliche-intelligenz-ki-hoerbuch-audio-100.html">Warum KI (noch) nicht Sprecher ersetzen kann</a>
+- ZDF, 09.03.2024: <a href="https://www.zdf.de/nachrichten/wissen/audio-kuenstliche-intelligenz-deep-fakes-100.html"> Wie gefährlich sind Audio Deepfakes?</a>
+- ZDF, 20.02.2024: <a href="https://www.zdf.de/nachrichten/wirtschaft/chatgpt-hacker-sicherheit-ki-openai-100.html"> KI als Waffe: Steigt die Hacker-Gefahr? </a>
 - Financial Times: <a href="https://on.ft.com/47uKF0h">The rising threat to democracy of AI-powered disinformation</a>
+- ZaoBao Singapore: <a href="https://www.zaobao.com.sg/lifestyle/feature/story20240119-1462802"> Deepfake Detection </a>
+- Tagesspiegel: <a href="https://background.tagesspiegel.de/digitalisierung/ki-vs-ki-automatisierte-erkennung-von-deepfakes"> KI gegen KI </a>
 - Frankfurter Rundschau: <a href="https://www.fr.de/kultur/gesellschaft/die-deepfake-apokalypse-92749539.html">Die Deepfake Apokalypse</a>
 - Tagesschau / RBB: <a href="https://www.tagesschau.de/inland/regional/brandenburg/rbb-deepfakes-sind-wie-messer-man-kann-sie-missbrauchen-oder-gebrauchen-100.html"> Brandenburg Berlin "Deepfakes sind wie Messer" </a>
 - VDI Technikdialog: <a href="https://www.vdi.de/veranstaltungen/detail/vdi-technikdialog-mitte-west-deepfake-gegen-ki-wie-man-mit-kuenstlicher-intelligenz-deepfakes-entlarvt"> Wie man mit künstlicher Intelligenz Deepfakes entlarvt </a>
@@ -33,6 +43,8 @@ print:
 - Berufsverband der Datenschutzbeauftragten: <a href="https://www.bvdnet.de/wp-content/uploads/2022/07/29_BvDS-358_BvD_News_2022-2_Web.pdf"> Deepfakes </a> 
 
 web:
+- Focus Online <a href="https://www.focus.de/politik/ausland/welt-faktencheck-wie-erkenne-ich-audio-deepfakes_id_260242022.html"> Wie erkenne ich Audio Deepfakes? </a>
+- Deutsche Welle <a href="https://www.dw.com/en/fact-check-how-do-i-spot-audio-deepfakes/a-69934521"> How do I spot audio deepfakes? </a>
 - DPA Faktencheck: <a href="https://dpa-factchecking.com/germany/220803-99-257169/">Joe Biden Deepfake? </a>
 - Handelsblatt: <a href="https://www.handelsblatt.com/technik/forschung-innovation/insight-innovation-deepfakes-im-krieg-koennen-wir-unseren-augen-nicht-mehr-trauen/28176612.html"> Deepfakes: Im Krieg können wir unseren Augen nicht mehr trauen </a>
 - Handelsblatt: <a href="https://www.handelsblatt.com/technik/it-internet/cyberkriminalitaet-wie-der-enkeltrick-nur-mit-ki-deepfake-betrueger-erpressen-firmen-mit-falscher-chef-stimme/28003742.html"> Betrug durch Deepfakes </a>
@@ -43,6 +55,7 @@ web:
 - Infopoint Security: <a href="https://www.infopoint-security.de/ki-als-cybersecurity-mitarbeiter-maschinelles-lernen-fuer-mehr-sicherheit/a19233/"> ML for IT security </a>
 
 live:
+- OmniSecure 2024: <a href="https://omnisecure.berlin/agenda/"> Risiken automatisierter Methoden zur Manipulation medialer Identitäten („Deepfakes“)</a>
 - Science Slam der Deutschen Transatlantischen Gesellschaft, 03.05.2023, Berlin: <a href="https://ata-dag.de/securityslam23/"> Deepfakes </a>
 - VCI Technikdialog Mitte/West, 10.05.2023, Remote
 - Huawei AI4SEC workshop <a href="https://ai4sec.net/IW2021/"> AI4SEC workshop </a>
