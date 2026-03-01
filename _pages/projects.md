@@ -4,7 +4,7 @@ title: writing
 permalink: /projects/
 description: Some of the projects I work on as a research scientist at Fraunhofer AISEC.
 order: 3
-nav: true
+nav: false
 display_categories: [work]
 horizontal: false
 ---
