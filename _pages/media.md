@@ -13,6 +13,7 @@ nav: true
 ### 2025
 - Fraunhofer AISEC, 30.09.2025: <a href="https://www.aisec.fraunhofer.de/en/media/press-releases/2025/detecting-audio-deepfakes-with-artificial-intelligence.html"> Detecting Audio Deepfakes with Artificial Intelligence </a>
 - France 24, 21.03.2025: <a href="https://observers.france24.com/fr/science/20250321-deepfakes-audio-faux-plus-difficiles-d%C3%A9tecter-intox-desinformation"> Deepfakes audio : des faux de plus en plus difficiles a detecter ? </a>
+- IUM-Symposium, Literaturhaus Muenchen, 14.03.2025: <a href="https://www.urheberrecht.org/events/20250314.php"> Deep Fakes und das Recht </a>
 - Galileo, 17.02.2025: <a href="https://www.youtube.com/watch?v=0SKgh9j9rqY">WAHLMANIPULATION und VERKAUFSMASCHEN: Geraten Deepfakes ausser Kontrolle? </a>
 - SIMEDIA Jahresforum, 26.11.2025, Neu-Isenburg: <a href="https://www.simedia.de/veranstaltungen/kuenstliche-intelligenz-in-der-unternehmenssicherheit/?occurrence=2025-11-26"> Kuenstliche Intelligenz in der Unternehmenssicherheit </a>
 - Stadtarchiv Augsburg, 26.09.2025: <a href="https://www.daz-augsburg.de/was-ist-noch-echt/"> Deep Fakes und Kuenstliche Intelligenz </a>
