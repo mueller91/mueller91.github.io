@@ -24,8 +24,14 @@ tv / radio:
 - Kinderkanal: <a href="https://www.kika.de/roadtrip-fuer-techfans/videos/richtig-fake-fuenf-104">'Richtig Fake'</a>
 - Bayrischer Rundfunk, 03.04.2023: <a href="https://www.ardmediathek.de/video/br24/entwicklungspause-fuer-ki-gefordert/br-fernsehen/Y3JpZDovL2JyLmRlL3ZpZGVvLzhhYmEyNjZiLWEwNzktNDYxYy1hNGEwLTliZDQ0ZDU4OWQxNg">'Entwicklungspause für KI gefordert?'</a>
 
+podcast:
+- Fraunhofer Podcast, 16.07.2024: <a href="https://www.fraunhofer.de/de/mediathek/podcasts/2024/podcast-deepfakes.html"> Deepfakes erkennen und verstehen </a>
+
 print:
+- Fraunhofer AISEC, 30.09.2025: <a href="https://www.aisec.fraunhofer.de/en/media/press-releases/2025/detecting-audio-deepfakes-with-artificial-intelligence.html"> Detecting Audio Deepfakes with Artificial Intelligence </a>
 - France 24: <a href="https://observers.france24.com/fr/science/20250321-deepfakes-audio-faux-plus-difficiles-d%C3%A9tecter-intox-desinformation"> Deepfakes audio : des faux de plus en plus difficiles à détecter ? </a>
+- bpb (Bundeszentrale für politische Bildung), 05.12.2024: <a href="https://www.bpb.de/lernen/bewegtbild-und-politische-bildung/556855/technische-ansaetze-zur-deepfake-erkennung-und-praevention/"> Technische Ansätze zur Deepfake-Erkennung und Prävention </a>
+- Forschung & Lehre, 28.08.2024: <a href="https://www.forschung-und-lehre.de/zeitfragen/wie-forschende-deepfakes-ergruenden-und-erleiden-6600"> Wie Forschende Deepfakes ergründen und erleiden </a>
 - ZDF, 11.03.2024: <a href="https://www.zdf.de/nachrichten/wissen/sprache-kuenstliche-intelligenz-ki-hoerbuch-audio-100.html">Warum KI (noch) nicht Sprecher ersetzen kann</a>
 - ZDF, 09.03.2024: <a href="https://www.zdf.de/nachrichten/wissen/audio-kuenstliche-intelligenz-deep-fakes-100.html"> Wie gefährlich sind Audio Deepfakes?</a>
 - ZDF, 20.02.2024: <a href="https://www.zdf.de/nachrichten/wirtschaft/chatgpt-hacker-sicherheit-ki-openai-100.html"> KI als Waffe: Steigt die Hacker-Gefahr? </a>
@@ -55,7 +61,11 @@ web:
 - Infopoint Security: <a href="https://www.infopoint-security.de/ki-als-cybersecurity-mitarbeiter-maschinelles-lernen-fuer-mehr-sicherheit/a19233/"> ML for IT security </a>
 
 live:
-- OmniSecure 2024: <a href="https://omnisecure.berlin/agenda/"> Risiken automatisierter Methoden zur Manipulation medialer Identitäten („Deepfakes“)</a>
+- MVHS München, 09.06.2026: <a href=”https://www.mvhs.de/kurse/460-C-W488700”> KI gegen KI – Deepfakes erkennen mit künstlicher Intelligenz </a>
+- VHS Webinar (Böblingen-Sindelfingen), 16.03.2026: <a href=”https://webinare-vhs.de/kurs/V85000810”> Alles fake? Deepfakes, KI-Betrug und die Auswirkungen auf die Gesellschaft </a>
+- SIMEDIA Jahresforum, 26.11.2025, Neu-Isenburg: <a href=”https://www.simedia.de/veranstaltungen/kuenstliche-intelligenz-in-der-unternehmenssicherheit/?occurrence=2025-11-26”> Künstliche Intelligenz in der Unternehmenssicherheit </a>
+- Stadtarchiv Augsburg, 26.09.2025: <a href=”https://www.daz-augsburg.de/was-ist-noch-echt/”> Deep Fakes und Künstliche Intelligenz </a>
+- OmniSecure 2024: <a href=”https://omnisecure.berlin/agenda/”> Risiken automatisierter Methoden zur Manipulation medialer Identitäten („Deepfakes”)</a>
 - Science Slam der Deutschen Transatlantischen Gesellschaft, 03.05.2023, Berlin: <a href="https://ata-dag.de/securityslam23/"> Deepfakes </a>
 - VCI Technikdialog Mitte/West, 10.05.2023, Remote
 - Huawei AI4SEC workshop <a href="https://ai4sec.net/IW2021/"> AI4SEC workshop </a>
