@@ -30,3 +30,4 @@ I'm also interested in <a href="teaching">teaching</a>, see
 
 My work on has been features in a number of <a href="/media">articles and interviews</a>.
 I run the website <a href="https://deepfake-total.com/">Deepfake-Total.com</a>.
+I also offer freelance <a href="/consulting/">consulting</a> on AI security, deepfake detection, and related topics.
