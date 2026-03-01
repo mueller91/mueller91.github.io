@@ -4,6 +4,7 @@ permalink: /consulting/
 title: consulting
 description:
 nav: true
+nav_order: 5
 ---
 
 I offer freelance consulting at the intersection of AI, security, and media.

@@ -4,6 +4,7 @@ permalink: /media/
 title: media
 description: Me on other blogs, websites and in print.
 nav: true
+nav_order: 1
 ---
 
 ### 2026

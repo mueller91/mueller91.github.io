@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
+nav_order: 3
 ---
 
 ### For Students | Technical University of Munich (TUM)
