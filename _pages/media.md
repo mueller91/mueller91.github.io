@@ -61,11 +61,11 @@ web:
 - Infopoint Security: <a href="https://www.infopoint-security.de/ki-als-cybersecurity-mitarbeiter-maschinelles-lernen-fuer-mehr-sicherheit/a19233/"> ML for IT security </a>
 
 live:
-- MVHS München, 09.06.2026: <a href=”https://www.mvhs.de/kurse/460-C-W488700”> KI gegen KI – Deepfakes erkennen mit künstlicher Intelligenz </a>
-- VHS Webinar (Böblingen-Sindelfingen), 16.03.2026: <a href=”https://webinare-vhs.de/kurs/V85000810”> Alles fake? Deepfakes, KI-Betrug und die Auswirkungen auf die Gesellschaft </a>
-- SIMEDIA Jahresforum, 26.11.2025, Neu-Isenburg: <a href=”https://www.simedia.de/veranstaltungen/kuenstliche-intelligenz-in-der-unternehmenssicherheit/?occurrence=2025-11-26”> Künstliche Intelligenz in der Unternehmenssicherheit </a>
-- Stadtarchiv Augsburg, 26.09.2025: <a href=”https://www.daz-augsburg.de/was-ist-noch-echt/”> Deep Fakes und Künstliche Intelligenz </a>
-- OmniSecure 2024: <a href=”https://omnisecure.berlin/agenda/”> Risiken automatisierter Methoden zur Manipulation medialer Identitäten („Deepfakes”)</a>
+- MVHS München, 09.06.2026: <a href="https://www.mvhs.de/kurse/460-C-W488700"> KI gegen KI - Deepfakes erkennen mit künstlicher Intelligenz </a>
+- VHS Webinar (Böblingen-Sindelfingen), 16.03.2026: <a href="https://webinare-vhs.de/kurs/V85000810"> Alles fake? Deepfakes, KI-Betrug und die Auswirkungen auf die Gesellschaft </a>
+- SIMEDIA Jahresforum, 26.11.2025, Neu-Isenburg: <a href="https://www.simedia.de/veranstaltungen/kuenstliche-intelligenz-in-der-unternehmenssicherheit/?occurrence=2025-11-26"> Künstliche Intelligenz in der Unternehmenssicherheit </a>
+- Stadtarchiv Augsburg, 26.09.2025: <a href="https://www.daz-augsburg.de/was-ist-noch-echt/"> Deep Fakes und Künstliche Intelligenz </a>
+- OmniSecure 2024: <a href="https://omnisecure.berlin/agenda/"> Risiken automatisierter Methoden zur Manipulation medialer Identitäten ("Deepfakes")</a>
 - Science Slam der Deutschen Transatlantischen Gesellschaft, 03.05.2023, Berlin: <a href="https://ata-dag.de/securityslam23/"> Deepfakes </a>
 - VCI Technikdialog Mitte/West, 10.05.2023, Remote
 - Huawei AI4SEC workshop <a href="https://ai4sec.net/IW2021/"> AI4SEC workshop </a>
