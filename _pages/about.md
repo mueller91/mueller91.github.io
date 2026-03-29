@@ -8,10 +8,9 @@ profile:
   align: right
   image: self_v3.png
   address: >
-    <p>Fraunhofer AISEC</p>
+    <p>Nicolas M. Müller</p>
     <p>Lichtenbergstraße 11</p>
     <p>85748 Garching / Munich</p>
-    <p>nicolas.mueller@aisec.fraunhofer.de</p>
 
 news: false # includes a list of news items
 selected_papers: false  # includes a list of papers marked as "selected={true}"

@@ -112,4 +112,4 @@ Promenade 18
 
 ### 9. Aktualität und Änderungen
 
-Diese Datenschutzerklärung ist aktuell gültig (Stand: März 2026). Durch die Weiterentwicklung der Website oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann eine Anpassung dieser Datenschutzerklärung erforderlich werden.
+Durch die Weiterentwicklung der Website oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann eine Anpassung dieser Datenschutzerklärung erforderlich werden.
