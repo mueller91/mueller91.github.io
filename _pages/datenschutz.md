@@ -70,9 +70,6 @@ unpkg ist ein Dienst von npm Inc. (GitHub/Microsoft), USA.
 Eingebundene Ressourcen: Masonry, ImagesLoaded.
 [Datenschutzerklärung von npm](https://docs.npmjs.com/policies/privacy)
 
-**Polyfill.io (polyfill.io)**
-Eingebundene Ressource: JavaScript-Polyfills für ältere Browser.
-[Informationen zu Polyfill.io](https://polyfill.io/)
 
 ### 4. SSL/TLS-Verschlüsselung
 
