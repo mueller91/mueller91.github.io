@@ -3,7 +3,7 @@ layout: page
 title: showcase
 permalink: /demos/
 description:
-nav: true
+nav: false
 nav_order: 4
 ---
 
