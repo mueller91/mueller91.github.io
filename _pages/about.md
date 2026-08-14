@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: self_v3.png
+  image: self_26.png
   address: >
     <p>Nicolas M. Müller</p>
     <p>Lichtenbergstraße 11</p>
