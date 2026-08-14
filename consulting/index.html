@@ -11,7 +11,7 @@
   Dr. Nicolas Müller
 
 
-  | blog
+  | consulting
 
 </title>
 <meta name="description" content="My personal website
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text x=%2250%22 y=%2250%22 font-size=%2245%22 font-weight=%22bold%22 font-family=%22sans-serif%22 text-anchor=%22middle%22 dominant-baseline=%22central%22>NM</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/consulting/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -122,8 +122,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/media/">
                 media
@@ -153,9 +151,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/consulting/">
                 consulting
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -200,19 +200,53 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">consulting</h1>
+    <p class="post-description"></p>
+  </header>
 
+  <article>
+    <p>I offer freelance consulting at the intersection of AI, security, and media.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<p><strong>Service areas:</strong></p>
+<ul>
+  <li>AI &amp; ML Security Consulting</li>
+  <li>Deepfake Detection &amp; Awareness</li>
+  <li>Keynotes, Workshops &amp; Training</li>
+</ul>
 
-  
+<p><a href="https://www.linkedin.com/in/nicolasmmueller">Get in touch</a></p>
 
+  </article>
+  <div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+<script>
+// Get the DOM
+var modal = document.getElementById('image-cover-modal');
+var modalImg = document.getElementById("image-cover-image");
+var captionText = document.getElementById("image-cover-caption");
+var span = document.getElementsByClassName("image-cover-close")[0];
 
+// When the user clicks on <span> (x), close the modal
+modal.onclick = function() {
+    this.classList.remove("model-shown");
+}
+
+var i;
+for (i = 0; i < document.images.length; i++) {
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    var img = document.images[i];
+
+    img.onclick = function(){
+        modal.classList.add("model-shown");
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+    }
+}
+</script>
 </div>
 
     </div>
